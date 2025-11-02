@@ -13,6 +13,5 @@ Our app provides a structured solution by allowing students to set dedicated foc
 
 ## Design Prototype
 
-*Built with ❤️ for better focus and academic success.*
 [View the UI Design on Figma](https://www.figma.com/design/VuaTQ3Vxha6GEhUgV2rNiF/focuMe-app?node-id=0-1&t=AogWYoW6UNGqLx4i-1)
 
