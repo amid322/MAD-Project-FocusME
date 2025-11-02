@@ -15,7 +15,7 @@ Our app provides a structured solution by allowing students to set dedicated foc
 
 [View the UI Design on Figma](https://www.figma.com/design/VuaTQ3Vxha6GEhUgV2rNiF/focuMe-app?node-id=0-1&t=AogWYoW6UNGqLx4i-1)
 
-## Jira Board
-[![Jira](https://ahmedhu123.atlassian.net/jira/software/projects/FMA/boards/2/backlog?selectedIssue=FMA-5)
+## Project Management
+You can track the progress and tasks on our [Jira Board](https://ahmedhu123.atlassian.net/jira/software/projects/FMA/boards/2/backlog?selectedIssue=FMA-5)
 
 
